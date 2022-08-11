@@ -2,7 +2,7 @@
 
 ### implementation
 
-In this mini-project, I implemented BFS using PySpard and 
+In this mini-project, I implemented BFS using PySpark and 
 the MapReduce technique. This code will do one parallel step of BFS.
 At the end of each round, we'll have the correct distance for each
 node within the k steps of the start node, plus its adjacency list.
